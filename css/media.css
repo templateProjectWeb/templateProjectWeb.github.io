@@ -1,0 +1,192 @@
+/*==========  Desktop First Method  ==========*/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+.btn-round {
+    padding: 10px 10px;
+    margin-top: 30px !important;
+    margin-bottom: 10px;
+    color: #ffffff;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+       .web {
+    font-family: openSans;
+    font-size: 40px !important;
+    color: #ffffff;
+    }
+    margin-top: 100px !important;
+      .wrapper-top1 {
+    margin-right: 10px !important;
+}
+     .wrapper-top2 {
+    margin-left: 40px !important;
+}
+         .block1 {
+   background: url(../pictures/background.png);
+   background-size: cover;
+   text-align: center;
+   padding-top: 25px;
+    padding-bottom: 20px;
+    height:1000px !important;
+}
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+.btn-round {
+   padding: 10px 10px;
+    margin-top: 30px !important;
+    margin-bottom: 10px;
+    color:black;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+     .mybutton1 {
+    position: relative;
+    text-decoration: none;
+    color: #ffffff;
+    text-align: center;
+    font-size: 15px;
+    padding: 10px 10px !important;
+    font-weight: 300;
+    border-radius: 24px;
+    line-height: 1.4;
+    font-family: openSans;
+}
+    .wrapper-top1 {
+    margin-right: 10px !important;
+}
+     .wrapper-top2 {
+    margin-left: 10px !important;
+}
+      .web {
+    font-family: openSans;
+    font-size: 40px !important;
+    color: #ffffff;
+    margin-top: 100px !important;
+} 
+    .underWeb {
+    font-family: openSans;
+    font-size: 15px !important;
+    line-height: 0.4;
+    color: #ffffff;
+    margin-top: 20px;
+}
+   
+
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+.btn-round{
+  padding: 10px 10px;
+    margin-top: 30px !important;
+    margin-bottom: 10px;
+    color: #ffffff;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    }
+    .web {
+    font-family: openSans;
+    font-size: 40px !important;
+    color: #ffffff;
+    margin-top: 100px !important;
+} 
+    .underWeb {
+    font-family: openSans;
+    font-size: 15px !important;
+    line-height: 0.4;
+    color: #ffffff;
+    margin-top: 20px;
+}
+    .mybutton1 {
+    position: relative;
+    text-decoration: none;
+    color: #ffffff;
+    text-align: center;
+    font-size: 15px;
+    padding: 10px 10px !important;
+    font-weight: 300;
+    border-radius: 24px;
+    line-height: 1.4;
+    font-family: openSans;
+}
+    .block3 {
+        font-size: 10px !important;
+    padding-top: 75px;
+    padding-bottom: 150px;
+    text-align: center;
+    background-color: azure;
+    max-width: 1500px;
+    margin: 0 auto;
+}
+      .block1 {
+   background: url(../pictures/background.png);
+   background-size: cover;
+   text-align: center;
+   padding-top: 25px;
+    padding-bottom: 20px;
+    height:800px !important;
+}
+    .forPictures {
+    font-family: ubuntuBold;
+    color: #ffffff;
+    margin-bottom: 5px !important;
+    font-size: 15px !important;
+    
+}
+      .wrapper-top1 {
+    margin-right: 10px !important;
+}
+     .wrapper-top2 {
+    margin-left: 10px !important;
+}
+ 
+  
+     
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {
+    
+
+
+}
+
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+}
+
+ /* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+
+}

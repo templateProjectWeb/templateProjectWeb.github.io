@@ -1,0 +1,159 @@
+
+@font-face {font-family: openSans; src: url(/fonts/OpenSansSemibold.ttf);}
+@font-face {font-family: ubuntuBold; src: url(/fonts/UbuntuBold.ttf);}
+@font-face {font-family: glyp; src: url(/fonts/glyphicons-halflings-regular.ttf);}
+@font-face {font-family: belinda; src: url(/fonts/Belinda.otf);}
+.div1 {display:inline-block;}
+.block1 {
+   background: url(../pictures/background.png);
+   background-size: cover;
+   text-align: center;
+   padding-top: 25px;
+    padding-bottom: 20px;
+    height:1200px;
+}
+.block2 {
+    padding-top: 50px;
+    background-color: azure;
+}
+.block3 {
+    padding-top: 75px;
+    padding-bottom: 150px;
+    text-align: center;
+    background-color: azure;
+    max-width: 1500px;
+    margin: 0 auto;
+}
+.last-wrapper {
+    display	: table;
+}
+.block4 {
+    text-align: center;
+    background-color: azure;
+}
+.block5 {
+    padding-bottom: 25px;
+    text-align: center;
+    padding-top: 25px;
+    background-color: black;
+}
+.heee {
+    text-align: center; 
+    color: darkgrey;
+}
+.lineText1 {
+    text-decoration: none;
+    font-family: ubuntuBold;
+    color: black;
+    font-weight: 800;
+    font-size: 11px;
+    padding: 10px 130px;
+}
+.lineText1:hover{text-decoration: none;}
+.templateText {
+    text-decoration: none;
+    font-family: ubuntuBold;
+    color: black;
+    font-weight: 800;
+    font-size: 13px;
+    padding-top: 0px;
+    padding-right: 50px;
+    padding-bottom: 0px;
+    padding-left: 20px;
+    line-height: 150%;
+    text-align: center;
+    
+}
+.templateText:hover{text-decoration: none;}
+.buttonMenu {
+   width: 100%;
+  
+    align-content: center
+    
+}
+.menu {
+   align-content: center
+   width: 50%;
+   margin-top: 45px;
+   font-size: 12px;
+}
+.mybutton1 {
+    position: relative;
+    text-decoration: none;
+    color: #ffffff;
+    text-align: center;
+    font-size: 15px;
+    padding: 10px 40px;
+    font-weight: 300;
+    border-radius: 24px;
+    line-height: 1.4;
+    font-family: openSans;
+}
+.mybutton1:hover{color: #ff5c33;cursor: pointer;text-decoration: none;}
+.web {
+    font-family: openSans;
+    font-size: 90px;
+    color: #ffffff;
+    margin-top: 300px;
+} 
+.underWeb {
+    font-family: openSans;
+    font-size: 25px;
+    line-height: 0.4;
+    color: #ffffff;
+    margin-top: 20px;
+}
+.forPictures {
+    font-family: ubuntuBold;
+    color: #ffffff;
+    margin-bottom: 140px;
+    font-size: 35px;
+    
+}
+
+.button2:hover {
+text-decoration: none;
+color: white;
+    min-height: 200p
+background-color: #F0AAAA;
+cursor: pointer;
+}
+
+.button2 {
+    margin-top: 110px;
+    color: #ffffff;
+    display: inline-block;
+    position: relative;
+    padding: 13px 60px;
+    border-radius: 24px;
+    background-color: #DA7473;
+    text-decoration: none;
+    font-family: openSans;
+}
+.btn-round {
+    padding: 10px 10px;
+    margin-top: 250px;
+    color: #ffffff;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+.menuButton {
+    padding-top: 50px;
+    background-image:url(/pictures/menu-logo.png)
+}
+.btn-circle {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  padding: 6px 0;
+  font-size: 12px;
+  line-height: 1.428571429;
+  border-radius: 15px;
+}
+.wrapper-top1 {
+    margin-right: 92px;
+}
+ .wrapper-top2 {
+    margin-left: 92px;
+}
