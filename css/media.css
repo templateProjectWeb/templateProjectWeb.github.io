@@ -2,7 +2,13 @@
 
 /* Large Devices, Wide Screens */
 @media only screen and (max-width : 1200px) {
-
+  .forPictures {
+    font-family: ubuntuBold;
+    color: #ffffff;
+    margin-bottom: 45px !important;
+    font-size: 25px !important;
+    
+}
 }
 
 /* Medium Devices, Desktops */
@@ -15,6 +21,13 @@
     width: 60px;
     height: 60px;
     border-radius: 50%;
+}
+      .forPictures {
+    font-family: ubuntuBold;
+    color: #ffffff;
+    margin-bottom: 5px !important;
+    font-size: 20px !important;
+    
 }
        .web {
     font-family: openSans;
@@ -87,6 +100,13 @@
     footer ul:nth-child(odd){
         clear: both;
     }
+      .forPictures {
+    font-family: ubuntuBold;
+    color: #ffffff;
+    margin-bottom: 10px !important;
+    font-size: 20px !important;
+    
+}
 
 
 }
@@ -147,8 +167,8 @@
     .forPictures {
     font-family: ubuntuBold;
     color: #ffffff;
-    margin-bottom: 5px !important;
-    font-size: 15px !important;
+    margin-bottom: 17px !important;
+    font-size: 12px !important;
     
 }
       .wrapper-top1 {
